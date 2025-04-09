@@ -67,5 +67,5 @@ To export the products as an XML feed:
 
 
 
-
+## Task 2
 The solution of task 2 is in the file root/task-2-SQL-query.sql
